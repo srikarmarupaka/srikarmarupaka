@@ -25,17 +25,17 @@
 
 ## Experience
 
-    ### Full-Stack developer @ The Fastway [dot] in, Mumbai
-    - During Nov. 2021 - present
+   ### Full-Stack developer @ The Fastway [dot] in, Mumbai
+   - During Nov. 2021 - present
     
-    ### Full-Stack developer @ Muzigal, Hyderabad
-    - During Feb. 2021 - Jul. 2021
+   ### Full-Stack developer @ Muzigal, Hyderabad
+   - During Feb. 2021 - Jul. 2021
     
-    ### Intern Web UI developer @ Archents IT, Hyderabad
-    - During Dec. 2019 - Apr. 2020
+   ### Intern Web UI developer @ Archents IT, Hyderabad
+   - During Dec. 2019 - Apr. 2020
     
-    ### Project Trainee @ ECIL, Hyderabad
-    - During Oct. 2019 - Oct. 2019
+   ### Project Trainee @ ECIL, Hyderabad
+   - During Oct. 2019 - Oct. 2019
     
 
 <!---
