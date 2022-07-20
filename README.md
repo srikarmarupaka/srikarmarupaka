@@ -6,7 +6,33 @@
 - 👀 I’m interested in Application development, Cloud Computing and Machine Learning.
 - 🌱 I’m currently working as a full-stack developer using the MERN Stack.
 - 💞️ I’m looking to collaborate on innovative projects and startups.
-- 📫 How to reach me srikarsharmamarupaka@gmail.com
+- 📫 How to reach me srikarsharmamarupaka@gmail.co
+
+
+
+## Experience
+
+   ### Application Development Associate, India
+   >  Dec. 2021 - present
+   >
+
+   ### Full-Stack developer @ The Fastway [dot] in, Mumbai
+   >  Nov. 2021 - Jun, 2022
+   > 
+    
+   ### Full-Stack developer @ Muzigal, Hyderabad
+   >  Feb. 2021 - Jul. 2021
+   > 
+    
+   ### Intern Web UI developer @ Archents IT, Hyderabad
+   >  Dec. 2019 - Apr. 2020
+   > 
+    
+   ### Project Trainee @ ECIL, Hyderabad
+   >  Oct. 2019 - Oct. 2019
+   > 
+   
+   
 
 ## Education
 
@@ -32,24 +58,6 @@
    >  Secured  8.8 CGPA (on scale of 10)
    >  
 
-## Experience
-
-   ### Full-Stack developer @ The Fastway [dot] in, Mumbai
-   >  Nov. 2021 - present
-   > 
-    
-   ### Full-Stack developer @ Muzigal, Hyderabad
-   >  Feb. 2021 - Jul. 2021
-   > 
-    
-   ### Intern Web UI developer @ Archents IT, Hyderabad
-   >  Dec. 2019 - Apr. 2020
-   > 
-    
-   ### Project Trainee @ ECIL, Hyderabad
-   >  Oct. 2019 - Oct. 2019
-   > 
-    
 
 <!---
 srikarmarupaka/srikarmarupaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
