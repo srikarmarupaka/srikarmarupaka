@@ -1,22 +1,29 @@
-# I'm Srikar Marupaka
+# Srikar Marupaka
 
 ## About Me
 
 - 👋 Hi, I’m Srikar Marupaka ( @srikarmarupaka ).
-- 👀 I’m interested in Application development, Cloud Computing and Machine Learning.
-- 🌱 I’m currently working as a full-stack developer using the MERN Stack.
-- 💞️ I’m looking to collaborate on innovative projects and startups.
-- 📫 How to reach me srikarsharmamarupaka@gmail.co
-
+- 🌱 I’m Passionate techie, skilled in securing information and computer forensics and have a proven experience in Web application development & Application Architecture. Looking forward to proving my skills in the cybersecurity and foren   sics field.
+- 💞️ I’m currently working as a Cyber Security and Risk Engineer.
+- 👀 I’m looking to collaborate on innovative projects and startups.
+- 📫 How to reach me srikarmarupaka@duck.com
 
 
 ## Experience
 
-   ### Application Development Associate, India
-   >  Dec. 2021 - present
+   ### Cyber Security and Risk Engineer, fnCyber (Remote)
+   >  Oct. 2024 - present
    >
 
-   ### Full-Stack developer @ The Fastway [dot] in, Mumbai
+   ### Freelance Front-end Engineer, Salzbay (Remote)
+   >  Sep. 2023 - Aug, 2024
+   >
+
+   ### Application Development Associate, Hyderabad, India
+   >  Dec. 2021 - June, 2023
+   >
+
+   ### Freelance Full-Stack developer @ The Fastway [dot] in, Mumbai (Remote)
    >  Nov. 2021 - Jun, 2022
    > 
     
@@ -36,6 +43,13 @@
 
 ## Education
 
+   ### Post Graduation
+   >  University college of Engineering, Science and Technology, JNTU - Hyderabad
+   >  
+   >  Sep. 2023 - Aug. 2025
+   >  
+   >  Secured distinction with 9.22 CGPA (Till date)
+   >
    ### Under Graduation
    >  Kakatiya University, Warangal
    >  
